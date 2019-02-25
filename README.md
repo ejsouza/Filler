@@ -16,10 +16,10 @@ player receives the grid status and must maximize his points while trying to min
 those of the opponent by eliminating it as quickly as possible.
 
 ## How the game rolls
-Here is an example on how a game will roll out.
-$>./filler_vm -p1 user1 -p2 user2 -v -f samples/w1.flr
-$$$ exec p1 : [user1]
-$$$ exec p2 : [user2]
+Here is an example on how a game will roll out. <br />
+$>./filler_vm -p1 user1 -p2 user2 -v -f samples/w1.flr <br />
+$$$ exec p1 : [user1] <br />
+$$$ exec p2 : [user2] <br />
 Plateau 14 30: <br />
 `012345678901234567890123456789` <br />
 `000 ..............................` <br />
